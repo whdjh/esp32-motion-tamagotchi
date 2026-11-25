@@ -1,0 +1,12 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Local custom sprites (not committed)
+assets/raw/*
+!assets/raw/.gitkeep
+firmware/src/sprites.h
+
+# Python
+__pycache__/
+*.pyc
